@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char const *argv[])
+int main()
 {
     printf("Hello World\n");
     printf("I START LEARNING C ON 25/JULY/2020\n");
